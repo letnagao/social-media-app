@@ -6,7 +6,6 @@ Social Media Application using React with CSS3 & Node.js.
 ✔️ Authentication with email & password <br />
 
 ## Technologies used 🛠️
-**Deployment**: *Heroku*<br />
 **Design**: *CSS3 & Styled Components*<br />
 **Authentication**: *Form auth from scratch*<br />
 **Backend**: *NodeJs* <br />
@@ -23,8 +22,10 @@ Social Media Application using React with CSS3 & Node.js.
 ~ git clone https://github.com/letnagao/social-media-app.git
 #2. cd into it
 ~ cd social-media-app
-#3. install serevr dependencies
+#3. install server dependencies
 ~ yarn
+#4. start the project 
+~ yarn start
 ```
 *available scripts*
 ```bash
