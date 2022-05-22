@@ -29,7 +29,10 @@ Social Media Application using React with CSS3 & Node.js.
 ```
 *available scripts*
 ```bash
-~ yarn start 
+~ yarn run
+~ yarn run test
+~ yarn run test -o --watch
+~ yarn run env
 ```
 </details>
 
