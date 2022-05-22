@@ -67,8 +67,6 @@ function ProfileModal({ modalOpened, setModalOpened }) {
             placeholder="RelationShip Status"
           />
         </div>
-
-
         <div>
             Profile Image 
             <input type="file" name='profileImg'/>
