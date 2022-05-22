@@ -5,12 +5,12 @@ import LogoSearch from "../logo-search/LogoSearch";
 
 const ProfileLeft = () => {
     return (
-        <div className="ProfileSide">
-            <LogoSearch />
-            <InfoCard />
-            <FollowersCard />
-        </div>
+     <div className="ProfileSide">
+         <LogoSearch/>
+         <InfoCard/>
+         <FollowersCard/>
+     </div>
     )
-}
-
-export default ProfileLeft;
+  }
+  
+  export default ProfileLeft

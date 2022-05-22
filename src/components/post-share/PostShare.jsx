@@ -60,7 +60,10 @@ const PostShare = () => {
           <UilTimes onClick={()=>setImage(null)}/>
           <img src={image.image} alt="" />
         </div>
+
       )}
+
+
       </div>
     </div>
   );
