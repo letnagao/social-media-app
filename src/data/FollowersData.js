@@ -4,8 +4,8 @@ import img3 from "../img/img3.png";
 import img4 from "../img/img4.jpg";
 
 export const Followers = [
-  { name: "Andrew Thomas", username: "AndrewThomas", img: img1 },
-  { name: "Hulk Buster", username: "HulkBuster", img: img2 },
-  { name: "Thor", username: "ThunderMaster", img: img3 },
-  { name: "Natasha", username: "Natasha", img: img4 },
+  { name: "Leticia Lumi", username: "lu.nagao", img: img1 },
+  { name: "Kerastase", username: "Kerastase_official", img: img2 },
+  { name: "Loreal", username: "loreal_brasil", img: img3 },
+  { name: "Gisele Bündchen", username: "gisele", img: img4 },
 ];
