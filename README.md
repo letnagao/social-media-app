@@ -1,4 +1,4 @@
-## Social Media Application 🎯
+## Social Media Application ✨
 Social Media Application using React with CSS3 & Node.js.
 
 ## Features 🔥
