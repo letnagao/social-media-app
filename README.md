@@ -1,6 +1,14 @@
 ## Social Media Application ✨
 Social Media Application using React with CSS3 & Node.js.
 
+![Language count](https://img.shields.io/github/languages/count/letnagao/social-media-app?color=green)
+![Top language](https://img.shields.io/github/languages/top/letnagao/social-media-app?color=ff69b4)
+![Repo size](https://img.shields.io/github/repo-size/letnagao/social-media-app?color=yellow)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/social-media-app?color=blue)
+![Latest commit](https://img.shields.io/github/last-commit/letnagao/social-media-app?color=red)
+[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/social-media-app?logo=GitHub)](https://github.com/letnagao/social-media-app/watchers)
+![Maintained](https://img.shields.io/maintenance/yes/9999)
+
 ## Features 🔥
 ✔️ Authentication with form account <br />
 ✔️ Authentication with email & password <br />
