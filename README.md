@@ -9,6 +9,14 @@ Social Media Application using React with CSS3 & Node.js.
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/social-media-app?logo=GitHub)](https://github.com/letnagao/social-media-app/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
+</ul><h2> Preview ⚡️</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99754900/178132045-2d285d48-8987-497b-90bf-58c09ba3face.jpg" />
+</p>  
+
+## Website 💻
+https://social-media-app-6no.pages.dev/
+
 ## Features 🔥
 ✔️ Authentication with form account <br />
 ✔️ Authentication with email & password <br />
