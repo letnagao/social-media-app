@@ -13,20 +13,20 @@ const ProfileCard = () => {
           <img src={Profile} alt="" />
         </div>  
             <div className="ProfileName">
-                <span>Luciane Kiyuna Nagao</span>
-                <span>Hairdress and Hair Therapist</span>
+                <span>Leticia Lumi Nagao</span>
+                <span>Software Engineer</span>
             </div>
 
             <div className="followStatus">
         <hr />
         <div>
           <div className="follow">
-            <span>6,890</span>
+            <span>3,789</span>
             <span>Followings</span>
           </div>
           <div className="vl"></div>
           <div className="follow">
-            <span>1</span>
+            <span>6,890</span>
             <span>Followers</span>
           </div>
 

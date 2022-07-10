@@ -26,7 +26,7 @@ const InfoCard = () => {
         <span>
           <b>Status </b>
         </span>
-        <span>Married</span>
+        <span>Single</span>
       </div>
 
       <div className="info">
@@ -40,7 +40,7 @@ const InfoCard = () => {
         <span>
           <b>Works at </b>
         </span>
-        <span>Jacques Janine </span>
+        <span>JPMorgan Chase </span>
       </div>
 
       <button className="button logout-button">Logout</button>

@@ -5,23 +5,23 @@ import postPic3 from '../img/postpic3.JPG'
 export const PostsData = [
     {
         img: postPic1,
-        name: 'Lilian Martins',
-        desc: "👏👏👏👏👏👏",
+        name: 'Lily Martins',
+        desc: "Beautiful!! 🐶 ",
         likes: 2303,
         liked: true
     },
     {
         img: postPic2,
         name: 'Maryam',
-        desc: "I want to wake up every day like this Lu 😍",
+        desc: "👏👏👏👏👏👏",
         likes: 1464,
         liked: false
 
     },
     {
         img:postPic3,
-        name: "Lucas Campos",
-        desc: "Namastê! 🙏🏻",
+        name: "Eliott DY",
+        desc: "😍😍😍",
         likes: 2678,
         liked: false
     }

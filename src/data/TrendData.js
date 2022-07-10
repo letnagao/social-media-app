@@ -1,26 +1,26 @@
 export const TrendData= [
     {
-      name: "Kdramas",
+      name: "ReactJS",
       shares: 97,
     },
     {
-      name: "Kerastase",
+      name: "Git",
       shares: 80.5,
     },
     {
-      name: "Haircuts",
+      name: "Scss",
       shares: 75.5,
     },
     {
-      name: "Prada",
+      name: "React",
       shares: 72,
     },
     {
-      name: "Soju",
+      name: "JS",
       shares: 71.9,
     },
     {
-      name: "Loreal",
+      name: "Angular",
       shares: 20,
     },
   ];
